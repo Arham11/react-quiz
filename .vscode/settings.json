@@ -1,0 +1,43 @@
+{
+  "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "redhat.telemetry.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "prettier.requireConfig": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.accessibilitySupport": "off",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[less]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "chatgpt.lang": "en",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.empty.hint": "hidden",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.run": "onSave",
+  "quokka.showStartViewOnFeatureRelease": false,
+  "files.autoSave": "onWindowChange",
+  "tabnine.experimentalAutoImports": true,
+  "editor.formatOnSave": true,
+}
